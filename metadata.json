@@ -1,0 +1,6 @@
+{
+  "name": "Al-Harraz Group",
+  "description": "البوابة الإلكترونية لمجموعة الحراز للخدمات المتكاملة - السفر والسياحة، الاستقدام، والخدمات العقارية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
